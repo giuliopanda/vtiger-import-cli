@@ -14,6 +14,6 @@ Istruzioni
  ```
   php -f import-zip.php exec
  ```
- exec per installare
- help per la guida
- list per l'elenco dei moduli che verranno aggiornati e/o installati
+- **exec** per installare
+- **help** per la guida
+- **list** per l'elenco dei moduli che verranno aggiornati e/o installati
