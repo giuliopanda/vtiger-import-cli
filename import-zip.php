@@ -13,6 +13,7 @@
  * exec per installare
  * help per la guida
  * list per l'elenco dei moduli che verranno aggiornati e/o installati
+ * test dev
  */
 
 require_once 'vtlib/Vtiger/Module.php';
